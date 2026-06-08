@@ -1,4 +1,4 @@
-# 🎨 Hex Toolkit
+# Hex Toolkit
 
 A clean, interactive color utility tool built with vanilla HTML, CSS, and JavaScript.
 
@@ -8,7 +8,7 @@ A clean, interactive color utility tool built with vanilla HTML, CSS, and JavaSc
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Color Picker** — Select any color visually and instantly see its values
 - **HEX & RGB Display** — Automatically converts and shows both formats
@@ -17,31 +17,12 @@ A clean, interactive color utility tool built with vanilla HTML, CSS, and JavaSc
 - **Gradient Generator** — Blend two colors into a smooth linear gradient
 - **Color History** — Saves your last 10 colors locally using `localStorage`
 - **Export Palette** — Downloads your current color as a `.json` file
-- **Animated Background** — Smooth gradient animation on the page background
 
 ---
 
 ## 📸 Preview
 
 <img width="1261" height="892" alt="image" src="https://github.com/user-attachments/assets/ce6ce0f7-4bab-4166-8f0c-066faf82f1b5" />
-
-
----
-
-## 🚀 Getting Started
-
-No installations or dependencies needed — just open it in a browser.
-
-```bash
-# Clone the repository
-git clone https://github.com/dakshalr/hex-toolkit.git
-
-# Open the project
-cd hex-toolkit
-open index.html
-```
-
-Or simply download the ZIP and open `index.html` in any browser.
 
 ---
 
