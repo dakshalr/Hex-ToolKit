@@ -23,7 +23,8 @@ A clean, interactive color utility tool built with vanilla HTML, CSS, and JavaSc
 
 ## 📸 Preview
 
-> _Add a screenshot of your project here — drag and drop an image into this section on GitHub._
+<img width="1261" height="892" alt="image" src="https://github.com/user-attachments/assets/ce6ce0f7-4bab-4166-8f0c-066faf82f1b5" />
+
 
 ---
 
