@@ -1,1 +1,70 @@
-# Hex-ToolKit
+# 🎨 Hex Toolkit
+
+A clean, interactive color utility tool built with vanilla HTML, CSS, and JavaScript.
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## ✨ Features
+
+- **Color Picker** — Select any color visually and instantly see its values
+- **HEX & RGB Display** — Automatically converts and shows both formats
+- **Copy to Clipboard** — One-click copy of the HEX code
+- **Random Color Generator** — Discover new colors with a single click
+- **Gradient Generator** — Blend two colors into a smooth linear gradient
+- **Color History** — Saves your last 10 colors locally using `localStorage`
+- **Export Palette** — Downloads your current color as a `.json` file
+- **Animated Background** — Smooth gradient animation on the page background
+
+---
+
+## 📸 Preview
+
+> _Add a screenshot of your project here — drag and drop an image into this section on GitHub._
+
+---
+
+## 🚀 Getting Started
+
+No installations or dependencies needed — just open it in a browser.
+
+```bash
+# Clone the repository
+git clone https://github.com/dakshalr/hex-toolkit.git
+
+# Open the project
+cd hex-toolkit
+open index.html
+```
+
+Or simply download the ZIP and open `index.html` in any browser.
+
+---
+
+## 🗂️ Project Structure
+
+```
+hex-toolkit/
+├── index.html      
+├── style.css       
+└── script.js       
+```
+
+---
+
+## 🛠️ Built With
+
+- **HTML5** — Structure
+- **CSS3** — Styling, animations, glassmorphism effects
+- **Vanilla JavaScript** — Logic, DOM manipulation, localStorage
+
+---
+
+## 🙋 About
+
+This is a beginner project built to practice core frontend skills — DOM manipulation, event handling, localStorage, and CSS animations — without any frameworks or libraries.
+
+---
